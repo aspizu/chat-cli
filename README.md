@@ -21,3 +21,10 @@ uv pip install .
 ```
 
 Run the program from anywhere using `uv run python -m chat`
+
+## Development
+
+```shell
+uv sync
+uv run python -m chat
+```
